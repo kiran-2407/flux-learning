@@ -10,3 +10,4 @@ spec:
   sourceRef:
     kind: GitRepository
     name: flux-learning
+  targetNamespace: default  # Ensure deployment is in the correct namespace
